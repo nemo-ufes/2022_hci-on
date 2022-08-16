@@ -1,0 +1,45 @@
+### SEON Astah File Version Control ###
+-------------------------------------
+
+# Version 1.0.0 - Jul 31, 2016 - Published
++ Foud. Ontology:    UFO
++ Core Ontologies:   SPO, SWO, EO
++ Domain Ontologies: RSRO, RDPO, DPO, CPO, ROoST
+= First stable version, published.
+-------------------------------------
+
+# Version 1.0.1 - Sep 15, 2016 - Published
++ QAPO - Quality Assurance Process Ontology, v01.
++ Core and Domain ontologies Stereotypes.
++ SwO's concepts: namespace fixed.
++ SEON Operational Version (OWL file).
+-------------------------------------
+
+# Version 1.0.2 - Oct 19, 2016 - Published
++ CMPO - Configuration Management Process Ontology, v01.
++ DPO - Design Process Ontology, v01.
++ QAPO concepts' definitions.
++ Model Element added to SPO.
++ Maplight added to diagrams
+-------------------------------------
+
+# Version 1.0.3 - Nov 16, 2016 - Published
++ ROoST increased, has now 5 subontologies, v02.
+-------------------------------------
+
+# Version 1.0.4 - Jun 13, 2017 - Published
++ UFO A and B organization
++ COM, the Core Ontology on Measurement (external)
++ SwO becomes SwAO (CO: Software Artifact Ontology)
++ ReqON, a Requirements Subnetwork (with RSRO, RDPO, GORO and RRO)
++ RSMO, the Reference Software Measurement Ontology
++ SMPO, the Software Project Management Ontology
++ Reached 500 concepts
++ Diagram Concepts tips (definitions)
+-------------------------------------
+
+# Version 1.0.5 - Sep 25, 2017 - Published
++ SwAO becomes SWO (DO: Software Ontology)
++ Small fixes
+* Thesis Version
+-------------------------------------
