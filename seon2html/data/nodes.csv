@@ -1,0 +1,452 @@
+Id;Label;Layer;Stereotype;CoreType;UFOType;Ontology
+001;Evaluated Process;DOMAIN;role;;;QAPO
+002;Component Design;DOMAIN;event;;;DPO
+003;Duration Estimated Activity;DOMAIN;;;;SPMO
+004;Mental User Input Resulting State;DOMAIN;;;;HCIDO
+005;Loaded RRT Program Copy;DOMAIN;;;;RRO
+006;HCI Design Object;DOMAIN;;;;HCIDO
+007;Formal Organization;CORE;kind;;;EO
+008;Practical Result;DOMAIN;;;;SPMO
+009;CR Being Solved;DOMAIN;phase;;;CMPO
+010;Reviewed CR;DOMAIN;phase;;;CMPO
+011;Software Measurement Planning;DOMAIN;event;;;RSMO
+012;Organizational Standard Process;CORE;2ndOT;;;SPO
+013;Design Evaluation Document;DOMAIN;subkind;;;DPO
+014;HCI Evaluation Criteria;DOMAIN;;;;HCIEO
+015;Software Design Object;DOMAIN;;;;SDRO
+016;Change Request (CR);DOMAIN;subkind;;;CMPO
+017;Artifact Copy;DOMAIN;category;;;CMPO
+018;Checkout;DOMAIN;event;;;CMPO
+019;Noncompliance Register;DOMAIN;subkind;;;QAPO
+020;Mental Software Design Object;DOMAIN;;;;SDRO
+021;Test Planning;DOMAIN;event;;;ROoST
+022;Controller;CORE;;;;SysSwO
+023;Loaded HCI Design Component;DOMAIN;;;;HCIDO
+024;Measurable Entity Type;CORE;;;;COM
+025;Operational Definition of Measure;DOMAIN;subkind;;;RSMO
+026;Measurable Software-Related Entity Type;DOMAIN;;;;RSMO
+027;Quality Assurance Planning;DOMAIN;event;;;QAPO
+028;Configuration Auditing;DOMAIN;event;;;CMPO
+029;Project Activity;CORE;;;;SPO
+030;Test Result Analysis;DOMAIN;event;;;ROoST
+031;Employment Type;CORE;2ndOT;;;EO
+032;Test Case Design Input;DOMAIN;rolemixin;;;ROoST
+033;Hardware Resource;CORE;role;;;SPO
+034;User Goal;CORE;;;;HCIO
+035;Software Goal;DOMAIN;;;;RSMO
+036;User Interface Program;CORE;;;;HCIO
+037;Test Incident Report;DOMAIN;subkind;;;ROoST
+038;Measurement Planning Item;CORE;;;;COM
+039;Technique;CORE;kind;;;SPO
+040;Mental Software Design Component;DOMAIN;;;;SDRO
+041;Hybrid Standard Process;CORE;2ndOT;;;SPO
+042;Measurement Analysis;CORE;;;;COM
+043;Non-Functional Requirement;DOMAIN;mode;;;RSRO
+044;Data Model;DOMAIN;subkind;;;DPO
+045;Loaded Program Copy;CORE;;;;SysSwO
+046;Test Execution;DOMAIN;event;;;ROoST
+047;Architectural Connector;DOMAIN;subkind;;;DPO
+048;Test Management Tool;DOMAIN;subkind;;;ROoST
+049;Interactive HCI Design Component;DOMAIN;;;;HCIDO
+050;Requirement;DOMAIN;;;;GORO
+051;Stakeholder Participation;CORE;event;;;SPO
+052;Noncompliance Control;DOMAIN;event;;;QAPO
+053;Human Resource Role;CORE;2ndOT;;;EO
+054;Standard Process;CORE;2ndOT;;;SPO
+055;Allocation Unit;CORE;role;;;EO
+056;Software Designer Mental Moment;DOMAIN;;;;SDRO
+057;HCI Design Component;DOMAIN;;;;HCIDO
+058;System Testing;DOMAIN;event;;;ROoST
+059;HCI Quality Characteristic;DOMAIN;;;;HCIEO
+060;Configuration Item (CI);DOMAIN;rolemixin;;;CMPO
+061;Mental HCI Design Component;DOMAIN;;;;HCIDO
+062;Mutation Testing Technique;DOMAIN;subkind;;;ROoST
+063;Software Resource Participation;CORE;event;;;SPO
+064;Organizational Unit Type;CORE;2ndOT;;;EO
+065;Software Architect;DOMAIN;role;;;DPO
+066;Information Need Description;DOMAIN;subkind;;;RSMO
+067;Atomic User Participation;CORE;;;;HCIO
+068;Presentational HCI Design Component;DOMAIN;;;;HCIDO
+069;Loaded Software Design Component;DOMAIN;;;;SDRO
+070;Simple Standard Activity;CORE;2ndOT;;;SPO
+071;Test Plan;DOMAIN;subkind;;;ROoST
+072;Organization;CORE;category;;;EO
+073;Standalone Formal Organization;CORE;;;;EO
+074;Baseline;DOMAIN;subkind;;;CMPO
+075;Testing Technique Type;DOMAIN;2ndOT;;;ROoST
+076;Measurement;CORE;;;;COM
+077;Monitoring Runtime Requirement Artifact;DOMAIN;;;;RRO
+078;Job Plan;CORE;kind;;;EO
+079;Mockup;DOMAIN;;;;HCIDO
+080;User Interpretation;CORE;;;;HCIO
+081;Target Program;DOMAIN;;;;RRO
+082;Measurement Goal;CORE;;;;COM
+083;Integration Testing;DOMAIN;event;;;ROoST
+084;Method Workflow;CORE;2ndOT;;;SPO
+085;Designer;DOMAIN;role;;;DPO
+086;Composite Intended Activity;CORE;mode;;;SPO
+087;Mental Computing Resulting State;DOMAIN;;;;SDRO
+088;Complex Computer System;CORE;;;;SysSwO
+089;Loaded Software Design Object;DOMAIN;;;;SDRO
+090;Quality Characteristic;DOMAIN;2ndOT;;;RSRO
+091;User Interface Design;DOMAIN;event;;;DPO
+092;Coding;DOMAIN;event;;;CPO
+093;Corrective Action Register;DOMAIN;subkind;;;SPMO
+094;Software Measurement Planning Item;DOMAIN;subkind;;;RSMO
+095;Simple Intended Activity;CORE;mode;;;SPO
+096;HCI Observer;DOMAIN;;;;HCIEO
+097;HCI Evaluator;DOMAIN;;;;HCIEO
+098;Measures Identification;DOMAIN;event;;;RSMO
+099;Incident Report;DOMAIN;subkind;;;ROoST
+100;Selection of Measures for Analysis;DOMAIN;event;;;RSMO
+101;Mental User Observable State;DOMAIN;;;;HCIDO
+102;User Interface Specification;DOMAIN;subkind;;;DPO
+103;User Observable State;CORE;;;;HCIO
+104;Software System;CORE;subkind;;;SysSwO
+105;Software Design Proposition;DOMAIN;;;;SDRO
+106;Organizational Role;CORE;2ndOT;;;EO
+107;Performed Process;CORE;event;;;SPO
+108;Artifact Participation;CORE;event;;;SPO
+109;Compliance Program Copy Execution;DOMAIN;;;;RRO
+110;Standard Activity;CORE;2ndOT;;;SPO
+111;Change Accomplishment;DOMAIN;event;;;CMPO
+112;Complex Interactive Computer System;CORE;;;;HCIO
+113;Process Evaluation;DOMAIN;event;;;QAPO
+114;Hardware Equipment;CORE;kind;;;SysSwO
+115;Project Plan;DOMAIN;subkind;;;SPMO
+116;Loaded Software System Copy;CORE;;;;SysSwO
+117;Performed Project Activity;CORE;;;;SPO
+118;Incident Management Tool;DOMAIN;subkind;;;ROoST
+119;User Requirement Artifact;DOMAIN;;;;HCIDO
+120;Testing Technique;DOMAIN;subkind;;;ROoST
+121;Checkin;DOMAIN;event;;;CMPO
+122;Requirements Evaluation Document;DOMAIN;subkind;;;RDPO
+123;Scale;CORE;;;;COM
+124;Software Measurement Execution;DOMAIN;event;;;RSMO
+125;Measurement Executor;DOMAIN;role;;;RSMO
+126;Scheduled Activity;CORE;mode;;;SPO
+127;Work Package;DOMAIN;;;;SPMO
+128;Computer HCI Observer;DOMAIN;;;;HCIEO
+129;Composite Method Activity;CORE;2ndOT;;;SPO
+130;Test Software Resource;DOMAIN;role;;;ROoST
+131;Configuration Items Identification;DOMAIN;event;;;CMPO
+132;Business Role;CORE;2ndOT;;;EO
+133;Complex Sw Artifact;CORE;category;;;SysSwO
+134;Information Needs Identification;DOMAIN;event;;;RSMO
+135;RRT Program Copy Execution;DOMAIN;;;;RRO
+136;Mental HCI Design Specification;DOMAIN;;;;HCIDO
+137;Measurement Planning Start;DOMAIN;event;;;RSMO
+138;Performed Composite Activity;CORE;event;;;SPO
+139;Change Reviewer;DOMAIN;role;;;CMPO
+140;OU Member;CORE;role;;;EO
+141;Mental HCI Design Object;DOMAIN;;;;HCIDO
+142;Softgoal;DOMAIN;;;;GORO
+143;Basic Measurement Procedure;CORE;;;;COM
+144;Planning Item Documentation;DOMAIN;event;;;RSMO
+145;Code;CORE;subkind;;;SysSwO
+146;User Initiated Participation;CORE;;;;HCIO
+147;Evaluation Report;DOMAIN;subkind;;;QAPO
+148;Interactive Software System;CORE;;;;HCIO
+149;Method Activity;CORE;2ndOT;;;SPO
+150;Change Requesting;DOMAIN;event;;;CMPO
+151;Organizational Team;CORE;subkind;;;EO
+152;Configuration Management Process;DOMAIN;event;;;CMPO
+153;Interface Specification;DOMAIN;subkind;;;DPO
+154;User Intention;CORE;;;;HCIO
+155;Stakeholder Main Participation;CORE;event;;;SPO
+156;Requirements Negotiation and Prioritization;DOMAIN;event;;;RDPO
+157;General Project Process;CORE;;;;SPO
+158;Requirements Stakeholder;DOMAIN;role;;;RSRO
+159;Software Design Choice;DOMAIN;;;;SDRO
+160;Stakeholder Belief;DOMAIN;;;;RSRO
+161;Requirements Agreement;DOMAIN;subkind;;;RDPO
+162;Team;CORE;kind;;;EO
+163;Organization Stakeholder;CORE;role;;;SPO
+164;Request Evaluation;DOMAIN;event;;;CMPO
+165;Closed CR;DOMAIN;phase;;;CMPO
+166;Periodicity;DOMAIN;;;;RSMO
+167;Agent HCI Observer;DOMAIN;;;;HCIEO
+168;Test Case Actual Result;DOMAIN;subkind;;;ROoST
+169;Simple Method Activity;CORE;2ndOT;;;SPO
+170;Runtime Requirement Artifact;DOMAIN;;;;RRO
+171;Simple Goal;CORE;;;;COM
+172;Architectural Element;DOMAIN;subkind;;;DPO
+173;Loaded Adaptation Program Copy;DOMAIN;;;;RRO
+174;Target Execution State;DOMAIN;;;;RRO
+175;Quality Assurance Plan;DOMAIN;subkind;;;QAPO
+176;Black-box Testing Technique;DOMAIN;subkind;;;ROoST
+177;User Input Resulting State;CORE;;;;HCIO
+178;Baseline Establishment;DOMAIN;event;;;CMPO
+179;Measurement Result Reporting;DOMAIN;event;;;RSMO
+180;Code To Be Tested;DOMAIN;role;;;ROoST
+181;Data Analysis;DOMAIN;event;;;RSMO
+182;Software Resource;CORE;role;;;SPO
+183;Computer Machine;CORE;;;;SysSwO
+184;Stakeholder;CORE;rolemixin;;;SPO
+185;Deliverable Product;DOMAIN;subkind;;;CMPO
+186;Model-based Testing Technique;DOMAIN;subkind;;;ROoST
+187;Solved CR;DOMAIN;phase;;;CMPO
+188;Noncompliance Closing;DOMAIN;event;;;QAPO
+189;Human-Computer Interaction;CORE;;;;HCIO
+190;Organizational Unit;CORE;kind;;;EO
+191;Software Artifact;CORE;category;;;SysSwO
+192;Selection of Measurement Goals for Analysis;DOMAIN;event;;;RSMO
+193;Software Item;CORE;kind;;;SysSwO
+194;Requirements Engineer;DOMAIN;role;;;RSRO
+195;Test Manager;DOMAIN;role;;;ROoST
+196;Complex Goal;CORE;;;;COM
+197;Selection of Entity for Measurement;DOMAIN;event;;;RSMO
+198;Intended Activity;CORE;mode;;;SPO
+199;Software Measurement Plan;DOMAIN;subkind;;;RSMO
+200;Interface High-level Design;DOMAIN;event;;;DPO
+201;Duration Estimated Process;DOMAIN;;;;SPMO
+202;User Interface;CORE;;;;HCIO
+203;Measurement Planning;CORE;;;;COM
+204;Testing Level;DOMAIN;2ndOT;;;ROoST
+205;Derivative Measurement Procedure;CORE;;;;COM
+206;Requirements Reviewer;DOMAIN;role;;;RDPO
+207;Measurable Software-Related Entity;DOMAIN;;;;RSMO
+208;Organizational Intended Process;CORE;mode;;;SPO
+209;Measurable Entity;CORE;;;;COM
+210;Estimated Stakeholder Allocation;DOMAIN;;;;SPMO
+211;Scheduled Process;CORE;mode;;;SPO
+212;Code Development;DOMAIN;event;;;CPO
+213;Complex Standalone Formal Organization;CORE;;;;EO
+214;Requirements Verification and Validation;DOMAIN;event;;;RDPO
+215;Evaluated CR;DOMAIN;phase;;;CMPO
+216;Release Management and Delivery;DOMAIN;event;;;CMPO
+217;Measurement Goals Establishment;DOMAIN;event;;;RSMO
+218;Composite Standard Activity;CORE;2ndOT;;;SPO
+219;Complex Organizational Unit;CORE;;;;EO
+220;Artifact Evaluation;DOMAIN;event;;;QAPO
+221;RRT Program;DOMAIN;;;;RRO
+222;HCI Evaluation Artifact Type;DOMAIN;;;;HCIEO
+223;Program Specification;CORE;subkind;;;SysSwO
+224;Mental Software Design Specification;DOMAIN;;;;SDRO
+225;Mental HCI Design Choice;DOMAIN;;;;HCIDO
+226;Configuration Management Plan;DOMAIN;subkind;;;CMPO
+227;Interactive Computer System;CORE;;;;HCIO
+228;User Initiated Action;CORE;;;;HCIO
+229;Measurement Manager;DOMAIN;role;;;RSMO
+230;Measurable Element;CORE;;;;COM
+231;Artifact Change;CORE;event;;;SPO
+232;Measurement Plan Item Selection;DOMAIN;event;;;RSMO
+233;Intended Process;CORE;mode;;;SPO
+234;Ordinal Scale;CORE;;;;COM
+235;Complex Task;DOMAIN;;;;GORO
+236;Performed Specific Process;CORE;event;;;SPO
+237;Document;CORE;kind;;;SysSwO
+238;Formal Organization Member Type;CORE;2ndOT;;;EO
+239;Performed Project Process;CORE;event;;;SPO
+240;Target Program Copy Execution;DOMAIN;;;;RRO
+241;Test Hardware Resource;DOMAIN;role;;;ROoST
+242;Conceptual Modeling;DOMAIN;event;;;RDPO
+243;Source Code;CORE;subkind;;;SysSwO
+244;Team Member;CORE;role;;;EO
+245;Artifact CI;DOMAIN;role;;;CMPO
+246;Machine Code;CORE;subkind;;;SysSwO
+247;System Specification;CORE;subkind;;;SysSwO
+248;Output Equipment;CORE;;;;HCIO
+249;Design Evaluation;DOMAIN;event;;;DPO
+250;Software Project;CORE;subkind;;;SPO
+251;HCI Evaluator Goal;DOMAIN;;;;HCIEO
+252;Software Measurement Analysis;DOMAIN;event;;;RSMO
+253;Human Resource;CORE;role;;;EO
+254;Configuration Audit Report;DOMAIN;subkind;;;CMPO
+255;Data Definitions;DOMAIN;subkind;;;DPO
+256;Measure;CORE;;;;COM
+257;Indicator;CORE;;;;COM
+258;Software Measurement Goal Description;DOMAIN;subkind;;;RSMO
+259;OU Assignment Type;CORE;2ndOT;;;EO
+260;Intentional User Participation (User Action);CORE;;;;HCIO
+261;HCI Evaluation Method;DOMAIN;;;;HCIEO
+262;Multi Formal Organization;CORE;;;;EO
+263;Architectural Design;DOMAIN;event;;;DPO
+264;Software Measurement Goal;DOMAIN;;;;RSMO
+265;Estimated Activity;DOMAIN;;;;SPMO
+266;Employment;CORE;relator;;;EO
+267;Input Equipment;CORE;;;;HCIO
+268;Rational Scale;CORE;;;;COM
+269;Change Control;DOMAIN;event;;;CMPO
+270;Selection of Data for Analysis;DOMAIN;event;;;RSMO
+271;Measurement Analyst;DOMAIN;role;;;RSMO
+272;Wireframe;DOMAIN;;;;HCIDO
+273;Project Team;CORE;subkind;;;EO
+274;Computer System;CORE;;;;SysSwO
+275;Communicated CR;DOMAIN;phase;;;CMPO
+276;Unit Testing;DOMAIN;event;;;ROoST
+277;Code Review Report;DOMAIN;subkind;;;CPO
+278;Base Measure;CORE;;;;COM
+279;Change Request Closing;DOMAIN;event;;;CMPO
+280;Requirements Development Process;DOMAIN;event;;;RDPO
+281;Software Architecture;DOMAIN;subkind;;;DPO
+282;Operational Definition of Measure Establishment;DOMAIN;event;;;RSMO
+283;OU Assignment;CORE;relator;;;EO
+284;Software Function;CORE;;;;SysSwO
+285;Tracked Stakeholder Participation;DOMAIN;;;;SPMO
+286;Software Product;CORE;kind;;;SysSwO
+287;General Intended Process;CORE;;;;SPO
+288;Test Case Expected Result;DOMAIN;subkind;;;ROoST
+289;Architecture Development;DOMAIN;event;;;DPO
+290;Indirectly Measurable Element;CORE;;;;COM
+291;Mental Software Design Choice;DOMAIN;;;;SDRO
+292;Requirements Elicitation;DOMAIN;event;;;RDPO
+293;Measured Value Description;DOMAIN;;;;RSMO
+294;Software Design Component;DOMAIN;;;;SDRO
+295;HCI Evaluation Artifact;DOMAIN;;;;HCIEO
+296;Procedure;CORE;category;;;SPO
+297;Test Coding;DOMAIN;event;;;ROoST
+298;Loaded Compliance Program Copy;DOMAIN;;;;RRO
+299;Test Case Design;DOMAIN;event;;;ROoST
+300;Measure Unit;CORE;;;;COM
+301;Computing Resulting State;CORE;;;;SysSwO
+302;Code Review;DOMAIN;event;;;CPO
+303;Noncompliance Responsible;DOMAIN;role;;;QAPO
+304;Hardware Type;CORE;2ndOT;;;SysSwO
+305;Project Process;CORE;mode;;;SPO
+306;Analysis Result Description;DOMAIN;;;;RSMO
+307;Design Document;DOMAIN;subkind;;;DPO
+308;Interactive Computer System Participation;CORE;;;;HCIO
+309;Measurement Context;DOMAIN;;;;RSMO
+310;Information Need;CORE;;;;COM
+311;Formal Organization Type;CORE;2ndOT;;;EO
+312;User Requirement;DOMAIN;;;;HCIDO
+313;Software Product Type;CORE;2ndOT;;;SysSwO
+314;Test Suite;DOMAIN;subkind;;;ROoST
+315;Scope Estimated Activity;DOMAIN;;;;SPMO
+316;Configuration Management System Establishment;DOMAIN;event;;;CMPO
+317;Data Collection;DOMAIN;event;;;RSMO
+318;Testing Environment;DOMAIN;collective;;;ROoST
+319;Analysis Result;CORE;;;;COM
+320;Software Project Measurement Plan;DOMAIN;;;;RSMO
+321;Software Function Universal;DOMAIN;2ndOT;;;RSRO
+322;Hardgoal;DOMAIN;;;;GORO
+323;Adaptation Program Copy Execution;DOMAIN;;;;RRO
+324;Performed Activity;CORE;event;;;SPO
+325;Design Process;DOMAIN;event;;;DPO
+326;CASE Tool;CORE;subkind;;;SPO
+327;Change Implementation;DOMAIN;event;;;CMPO
+328;Scale Value;CORE;;;;COM
+329;Requirement;DOMAIN;mode;;;RSRO
+330;Noncompliance Resolution;DOMAIN;event;;;QAPO
+331;Design Time Requirement Artifact;DOMAIN;;;;RRO
+332;Configuration Manager;DOMAIN;role;;;CMPO
+333;Document Type;CORE;2ndOT;;;SysSwO
+334;Estimated Process;DOMAIN;;;;SPMO
+335;Adherence Evaluation;DOMAIN;event;;;QAPO
+336;HCI Design Choice;DOMAIN;;;;HCIDO
+337;Specific Intended Process;CORE;;;;SPO
+338;Team Stakeholder;CORE;role;;;SPO
+339;Design Documentation;DOMAIN;event;;;DPO
+340;Component Interface Design;DOMAIN;event;;;DPO
+341;HCI Evaluation;DOMAIN;;;;HCIEO
+342;Team Membership;CORE;relator;;;EO
+343;Programming Language;CORE;kind;;;SysSwO
+344;Loaded User Interface Program Copy;CORE;;;;HCIO
+345;Software Artifact Type;CORE;2ndOT;;;SysSwO
+346;Specific Project Process;CORE;;;;SPO
+347;Programmer;DOMAIN;role;;;CPO
+348;Measured Value;CORE;;;;COM
+349;Tracked Activity;DOMAIN;;;;SPMO
+350;Specific Standard Process;CORE;2ndOT;;;SPO
+351;Method;CORE;kind;;;SPO
+352;Change Requester;DOMAIN;role;;;CMPO
+353;Tester;DOMAIN;role;;;ROoST
+354;Change Request Evaluator;DOMAIN;role;;;CMPO
+355;Software Designer;DOMAIN;;;;SDRO
+356;Configuration Auditor;DOMAIN;role;;;CMPO
+357;Procedure Participation;CORE;event;;;SPO
+358;Project Manager;DOMAIN;role;;;SPMO
+359;Activity Universal;CORE;2ndOT;;;SPO
+360;Artifact Creation;CORE;event;;;SPO
+361;Test Driver;DOMAIN;subkind;;;ROoST
+362;Cost Estimated Process;DOMAIN;;;;SPMO
+363;General Standard Process;CORE;2ndOT;;;SPO
+364;Quality Auditor;DOMAIN;role;;;QAPO
+365;Item;DOMAIN;mixin;;;CMPO
+366;Measure Description;DOMAIN;subkind;;;RSMO
+367;Loaded Interactive Software System Copy;CORE;;;;HCIO
+368;Version;DOMAIN;mode;;;CMPO
+369;Test Result;DOMAIN;subkind;;;ROoST
+370;Loaded Target Program Copy;DOMAIN;;;;RRO
+371;Noncompliance Identification;DOMAIN;event;;;QAPO
+372;Project Standard Process;CORE;2ndOT;;;SPO
+373;White-box Testing Technique;DOMAIN;subkind;;;ROoST
+374;HCI Evaluator Intention;DOMAIN;;;;HCIEO
+375;Compliance Program;DOMAIN;;;;RRO
+376;Software-Related Measure;DOMAIN;;;;RSMO
+377;Atomic Task;DOMAIN;;;;GORO
+378;Change Implementer;DOMAIN;role;;;CMPO
+379;Process Universal;CORE;2ndOT;;;SPO
+380;Configuration Management Planning;DOMAIN;event;;;CMPO
+381;Conceptual Model;DOMAIN;subkind;;;RDPO
+382;Test Code;DOMAIN;subkind;;;ROoST
+383;Project;CORE;kind;;;EO
+384;Standard Process Definition Document;CORE;kind;;;SPO
+385;Project Stakeholder;CORE;rolemixin;;;SPO
+386;Performed Simple Activity;CORE;event;;;SPO
+387;Test Input;DOMAIN;subkind;;;ROoST
+388;Deliverable;DOMAIN;mode;;;SPMO
+389;Performed Organizational Process;CORE;event;;;SPO
+390;Requirements Document;DOMAIN;subkind;;;RSRO
+391;Data Design;DOMAIN;event;;;DPO
+392;Product Quality Requirement;DOMAIN;mode;;;RSRO
+393;Hardware Resource Participation;CORE;event;;;SPO
+394;Team Purpose;CORE;mode;;;EO
+395;Evaluated Artifact;DOMAIN;role;;;QAPO
+396;Code Documentation;DOMAIN;event;;;CPO
+397;Document Template;CORE;kind;;;SPO
+398;Test Script;DOMAIN;subkind;;;ROoST
+399;Simple Standalone Formal Organization;CORE;;;;EO
+400;Software Measurement Process;DOMAIN;;;;RSMO
+401;Directly Measurable Element;CORE;;;;COM
+402;Detailed Design;DOMAIN;event;;;DPO
+403;Software Organization;CORE;;;;SPO
+404;HCI Evaluation Report;DOMAIN;;;;HCIEO
+405;Coding Process;DOMAIN;event;;;CPO
+406;Testing Process;DOMAIN;event;;;ROoST
+407;Test Analysis Report;DOMAIN;subkind;;;ROoST
+408;Model;CORE;kind;;;SysSwO
+409;Assumption;DOMAIN;;;;RSRO
+410;Functional Prototype;DOMAIN;;;;HCIDO
+411;Measurement Procedure;CORE;;;;COM
+412;Code Reviewer;DOMAIN;role;;;CPO
+413;Derived Measure;CORE;;;;COM
+414;Resource;CORE;rolemixin;;;SPO
+415;User Participation;CORE;;;;HCIO
+416;Simple Organizational Unit;CORE;;;;EO
+417;Interval Scale;CORE;;;;COM
+418;Architectural Component;DOMAIN;subkind;;;DPO
+419;Quality Assurance Process;DOMAIN;event;;;QAPO
+420;Unintentional User Participation;CORE;;;;HCIO
+421;Complex User Participation;CORE;;;;HCIO
+422;HCI Design Specification;DOMAIN;;;;HCIDO
+423;Stakeholder Allocation;CORE;relator;;;SPO
+424;Stakeholder Intention;DOMAIN;;;;RSRO
+425;Tracked Process;DOMAIN;;;;SPMO
+426;Artifact Usage;CORE;event;;;SPO
+427;Stub;DOMAIN;subkind;;;ROoST
+428;Measurement Analysis Procedure;DOMAIN;;;;RSMO
+429;Program Copy Execution;CORE;;;;SysSwO
+430;Cost Estimated Activity;DOMAIN;;;;SPMO
+431;Formal Organization Employer;CORE;role;;;EO
+432;Atomic Sw Artifact;CORE;category;;;SysSwO
+433;Data High-level Design;DOMAIN;event;;;DPO
+434;Test Case;DOMAIN;subkind;;;ROoST
+435;Test Case Designer;DOMAIN;role;;;ROoST
+436;Measurement Formula;CORE;;;;COM
+437;Information Item;CORE;kind;;;SysSwO
+438;User;CORE;;;;HCIO
+439;HCI Designer;DOMAIN;;;;HCIDO
+440;Software Design Specification;DOMAIN;;;;SDRO
+441;Program;CORE;subkind;;;SysSwO
+442;Adaptation Program;DOMAIN;;;;RRO
+443;Change Runtime Requirement Artifact;DOMAIN;;;;RRO
+444;Functional Requirement;DOMAIN;mode;;;RSRO
+445;Business Goal;DOMAIN;;;;RSMO
+446;Requirement Artifact;DOMAIN;subkind;;;RSRO
+447;Requirements Documentation;DOMAIN;event;;;RDPO
+448;Person Stakeholder;CORE;role;;;SPO
+449;Change Review;DOMAIN;event;;;CMPO
+450;Performed General Process;CORE;event;;;SPO
+451;Level-based Testing;DOMAIN;event;;;ROoST
